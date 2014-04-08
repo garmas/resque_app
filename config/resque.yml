@@ -1,4 +1,4 @@
 # config/resque.yml
 development: localhost:6379
 staging: localhost:6379
-production: # this comes later
+production: redis://rediscloud:HkgZKDihYsrm9dYe@pub-redis-18499.us-east-1-3.3.ec2.garantiadata.com:18499
