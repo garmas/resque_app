@@ -1,0 +1,4 @@
+# config/resque.yml
+development: localhost:6379
+staging: localhost:6379
+production: # this comes later
